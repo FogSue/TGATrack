@@ -1,5 +1,5 @@
-# Template-Guided Low-Rank Adaption for Robust RGB-T Tracking [ICME'2025 Oral]
-Official implementation of **TGATrack**, including models and training&testing codes.
+# [ICME'2025 Oral] Template-Guided Low-Rank Adaption for Robust RGB-T Tracking
+Official implementation of **TGATrack**, including models, training, and testing codes.
 
 [Models & Raw Results](https://drive.google.com/drive/folders/19RjO_cabtJLzbIoYqDM4JPFjARrkidMD?usp=drive_link)
 (Google Driver)
@@ -69,7 +69,16 @@ and refer you to [MPR_MSR_Evaluation](https://sites.google.com/view/ahutracking0
 If you find TGATrack is helpful for your research, please consider citing:
 
 ```bibtex
-
+@INPROCEEDINGS{11209350,
+  author={Zhang, Shihui and Su, Junbin and Zhang, Jiawei and Xue, Ziteng and Zhang, Zhipeng},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={TGATrack: Template-Guided Low-Rank Adaption for Robust RGB-T Tracking}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Representation learning;Adaptation models;Target tracking;Codes;Robustness;Object tracking;Mixers;RGB-T object tracking;multimodal vision;adaptive representation learning},
+  doi={10.1109/ICME59968.2025.11209350}}
 ```
 
 ## Acknowledgment
